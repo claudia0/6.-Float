@@ -1,0 +1,24 @@
+
+.cajauno{
+background-color: grey;
+height: 100px;
+width: 100px;
+display: inline-block;
+margin: 0px 5px 3px 0;
+border: 1px solid;
+}
+.cajalarga{
+background-color: grey;
+height: 120px;
+width: 400px;
+margin: 5px 0px;
+border: 1px solid;
+}
+.cajita{
+border: 1px solid black;
+display: inline-block;
+height: 100px;
+width: 100px;
+background: grey;
+margin: 10px 12px;
+}
